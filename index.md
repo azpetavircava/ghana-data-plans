@@ -67,3 +67,10 @@ layout: default
 
 　　最后说点感性的。在加纳，一张小小的流量卡，是你连接世界的窗口，但也别让它完全占据你的视线。有时关掉数据，好好感受一下西非的海风、热情的音乐和人们的笑容，那才是旅行中最宝贵的“流量”。
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Ghana SIM 卡购买与激活指南](https://faciylike.github.io/ghana-sim-guides)
